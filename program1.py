@@ -23,4 +23,4 @@ def vowelsConsonantsCounter():
 
 vowelsConsonantsCounter()
 print(f"Consonants = {consonantCount} \nVowels = {vowels}\nWords: {words}")
-input("Program finished")
+print("Program finished")
